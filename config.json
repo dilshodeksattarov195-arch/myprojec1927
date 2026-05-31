@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterdtringify",
+        "uuid": 14810922,
+        "checksum": "303hgb"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
